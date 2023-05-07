@@ -1,7 +1,0 @@
-diff --git a/README.md b/README.md
-new file mode 100644
-index 0000000..f9cfd7a
---- /dev/null
-+++ b/README.md
-@@ -0,0 +1 @@
-+"# Repositorio AWS CloudFormation \n## Por Luis Miguel Miras \n-main7.yml: fichero que contiene la plantilla de la pila \n-deploy-stack.sh: script de despliegue de la pila \n-tear-down.sh: script para eliminar la pila" 
