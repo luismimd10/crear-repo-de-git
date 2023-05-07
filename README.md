@@ -1,1 +1,5 @@
-"# Repositorio AWS CloudFormation \n## Por Luis Miguel Miras \n-main7.yml: fichero que contiene la plantilla de la pila \n-deploy-stack.sh: script de despliegue de la pila \n-tear-down.sh: script para eliminar la pila" 
+# Repositorio AWS CloudFormation
+## Por Luis Miguel Miras
+-main7.yml: fichero que contiene la plantilla de la pila 
+-deploy-stack.sh: script de despliegue de la pila 
+-tear-down.sh: script para eliminar la pila" 
