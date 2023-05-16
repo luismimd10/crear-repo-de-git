@@ -3,7 +3,7 @@
 1- #Instalar la última versión de Apache web server y PHP para amazon linux 2023
    sudo dnf install -y httpd wget php-fpm php-mysqli php-json php php-devel
    
-2- #Instalar MariaDB software packages
+2- #Instalar MariaDB software packages#
   sudo dnf install mariadb105-server
   
 3- #Arranca el servidor Apache
