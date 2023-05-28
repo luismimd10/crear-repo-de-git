@@ -1,1 +1,1 @@
-aws cloudformation delete-stack --stack-name WordPressServer
+aws cloudformation delete-stack --stack-name WordPressServer2
